@@ -43,3 +43,4 @@ Deploy a scalable Streamlit app on AWS with:
 ✅ Load Balancer (Distributes traffic)
 ✅ HTTPS (Optional) (Secure access)
 
+![Project Architecture](https://github.com/user-attachments/assets/f77c5482-47ea-4a2f-9f26-b8e371651c5c)
