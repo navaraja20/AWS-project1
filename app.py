@@ -9,7 +9,7 @@ df = pd.read_csv("StudentPerformanceFactors.csv")
 # Title and theme
 st.set_page_config(page_title="Student Performance Dashboard", layout="wide")
 
-st.title("📊 Student Performance EDA Dashboard (Dark Theme)")
+st.title("📊 Student Performance EDA Dashboard")
 
 # Sidebar Filters
 st.sidebar.header("🔍 Filter Options")
